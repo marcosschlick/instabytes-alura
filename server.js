@@ -1,5 +1,5 @@
 import express from "express";
-import routes from "./src/routes/postsRoutes.js";
+import routes from "./src/routes/postsRoute.js";
 
 const app = express();
 
